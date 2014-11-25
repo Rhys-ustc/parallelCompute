@@ -1,4 +1,6 @@
-DeepLearning
+Parallel compute 
 ============
-
-Deep Learning Algorithm
+CUDA 
+MPI
+multi-thread
+hadoop
